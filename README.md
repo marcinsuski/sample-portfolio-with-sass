@@ -20,7 +20,7 @@ I coded along with the tutorial to learn and practice sass for css. It's a very 
 
 ### Screenshot
 
-![](../img/desktop-preview.jpg)
+![](./img/desktop-preview.JPG)
 
 
 ### Links
